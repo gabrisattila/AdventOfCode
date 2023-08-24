@@ -163,7 +163,7 @@ public class SecondPuzzle {
                     }
                 }
             }
-            return 'A';
+            return c;
         }
     }
 }
